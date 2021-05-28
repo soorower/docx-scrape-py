@@ -10,3 +10,7 @@
 Fiverr: https://www.fiverr.com/sorowerhossan01?up_rollout=true
 Instagram: https://www.instagram.com/python.fun.learn/
 Linkedin: https://www.linkedin.com/in/md-sorower-2305561a5/
+
+
+
+how to scrape doc file using python, scrape docx python, python doc scrape, python document scrape, documents scraping python, python libraries to scrape doc/docx
